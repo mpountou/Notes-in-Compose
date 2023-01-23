@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes in Compose</string>
+    <string name="add_button">Add Button</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="sort_action">Sort Notes</string>
+    <string name="delete_all_action">Delete All</string>
+    <string name="sad_face_icon">Sad Face Icon</string>
+    <string name="empty_content">No Notes Found.</string>
+    <string name="add_note">Add Note</string>
+
+
+</resources>
